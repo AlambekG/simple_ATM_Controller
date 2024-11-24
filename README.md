@@ -9,20 +9,30 @@ Balance inquiry
 Deposit funds
 Withdraw funds
 
-Installation
+## Installation
 
 Clone the repository:
 
-``` git clone https://github.com/AlambekG/simple_ATM_Controller.git 
-cd simple_ATM_Controller
-```
+``` git clone https://github.com/AlambekG/simple_ATM_Controller.git  ```
 
-Install dependencies:
+Go to repo 
+
+``` cd simple_ATM_Controller ```
+
+## Install dependencies:
 
 ``` npm install ```
 
-Running Tests
+## Running Tests
 Execute the test suite using Jest:
 
 
 ``` npm test ```
+
+
+## Running the Application
+
+You can run a simulation of the ATM operations using the `index.js` script:
+
+``` node src/index.js ```
+
