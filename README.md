@@ -21,18 +21,19 @@ Go to repo
 
 ## Install dependencies:
 
-``` npm install ```
-
-## Running Tests
-Execute the test suite using Jest:
-
-
-``` npm test ```
-
+``` npm i ```
 
 ## Running the Application
 
 You can run a simulation of the ATM operations using the `index.js` script:
 
-``` node src/index.js ```
+``` npm run dev ```
+
+## Running Tests
+
+Execute the test suite using Jest:
+
+
+``` npm test ```
+
 
